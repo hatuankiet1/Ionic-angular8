@@ -12,3 +12,10 @@ export class A {
 		console.log("fixed");
 	}
 }
+
+export class B(){
+	
+	constructor(){
+		
+	}
+}
