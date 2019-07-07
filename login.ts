@@ -8,6 +8,7 @@ export class A{
 	}
 	
 	()=>{
-		console.log('asdas');
+		//fixed 
+		console.log("fixed");
 	}
 }
