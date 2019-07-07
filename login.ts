@@ -1,13 +1,13 @@
 
 
 
-export class A{
-	
-	constructor(){
-		
+export class A {
+
+	constructor() {
+
 	}
-	
-	()=>{
+
+	ab() {
 		//fixed 
 		console.log("fixed");
 	}
